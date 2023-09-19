@@ -1,6 +1,6 @@
 const axios = require('axios');
 
-const apiKey = 'YOUR_API_KEY'; 
+const apiKey = 'OxfordDictionaries_llave'; 
 const language = 'en'; 
 
 async function fetchWordData(word) {
