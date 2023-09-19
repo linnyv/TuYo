@@ -1,0 +1,24 @@
+.calculon {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 25px;
+  }
+  
+  .calculon input {
+    width: 150px;
+    margin-bottom: 15px;
+    padding: 7px;
+    font-size: 20px;
+  }
+  
+  .calculon button {
+    width: 65px;
+    height: 65px;
+    margin: 7px;
+    font-size: 20px;
+  }
+  
+  .calculon .clear {
+    width: 230px;
+  }
